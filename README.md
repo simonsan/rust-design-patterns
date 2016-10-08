@@ -21,7 +21,7 @@ language.
 * TODO interior mutability - UnsafeCell, Cell, RefCell
 * TODO treating Option like a list
 * TODO `Default` trait
-* [`&String` vs `&str`](idioms/str-vs-string.md)
+* [`Using coercion for arguments`](idioms/coercion-arguments.md)
 
 ### Design patterns
 
